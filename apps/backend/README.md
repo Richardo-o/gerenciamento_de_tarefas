@@ -1,0 +1,5 @@
+1. uv sync -- na raiz do projeto
+2. cd apps/backend docker compose up -d
+3. uv run src/scripts/seed.py
+4. uv run main.py
+5. entrar nesse link(rota): http://localhost:5000/swagger/
